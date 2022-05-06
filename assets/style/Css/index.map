@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "index.css",
+	"sources": [
+		"../scss/index.scss"
+	],
+	"sourcesContent": [
+		".home-page{\r\n    &__style{\r\n        position: absolute;\r\n        top: 50%;\r\n        left: 50%;\r\n\r\n    }\r\n}"
+	],
+	"names": [],
+	"mappings": ";AACK,AAAD,iBAAQ,CAAA;EACJ,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,GAAG;EACR,IAAI,EAAE,GAAG;CAEZ"
+}
